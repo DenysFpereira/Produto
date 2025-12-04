@@ -57,3 +57,35 @@ cd produtos
 
 # Execute o projeto via Maven ou sua IDE (IntelliJ)
 ./mvnw spring-boot:run
+O servidor iniciará na porta 8081.
+
+### 3. Rodando o Front-end
+```bash
+# Abra um novo terminal e entre na pasta da aplicação web
+cd produtos-app
+
+# Instale as dependências do projeto
+npm install
+
+# Rode o servidor de desenvolvimento
+ng serve
+````
+### 3. Rodando o Front-end
+```bash
+# Abra um novo terminal e entre na pasta da aplicação web
+cd produtos-app
+
+# Instale as dependências do projeto
+npm install
+
+# Rode o servidor de desenvolvimento
+ng serve
+Acesse a aplicação no navegador em: `http://localhost:4200`
+
+-----
+```
+
+### 👨‍💻 Autor
+
+Desenvolvido por **Denys Felipe**.
+Estudante de Análise e Desenvolvimento de Sistemas.
