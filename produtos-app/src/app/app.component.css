@@ -1,0 +1,25 @@
+nav {
+  padding: 12px;
+  background: #0d6efd;
+  color: white;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  padding: 16px;
+  max-width: 900px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
