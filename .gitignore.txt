@@ -1,0 +1,14 @@
+# Ignorar arquivos do Java/IntelliJ
+**/target/
+**/*.class
+**/.idea/
+**/*.iml
+**/.mvn/
+**/mvnw
+**/mvnw.cmd
+
+# Ignorar arquivos do Node/Angular
+**/node_modules/
+**/dist/
+**/.angular/
+**/.vscode/
